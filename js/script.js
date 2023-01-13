@@ -48,6 +48,6 @@ function chiedoNumero() {
 console.log(numbersRandom);
 
 
-setTimeout(chiedoNumero, 6000);
-setTimeout(sparisceNumeri, 5000);
+setTimeout(chiedoNumero, 30000);
+setTimeout(sparisceNumeri, 28000);
 
